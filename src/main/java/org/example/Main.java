@@ -9,6 +9,6 @@ public class Main {
 
     }
 }
-// 장바구니 담기 git add.
+// 장바구니 담기 git add .
 // 내컴퓨터에 세이브 포인트 찍기 git commit -m "1st"
-// 원격에 포인트 올리기 git push orgin main
+// 원격에 포인트 올리기 git push origin main
